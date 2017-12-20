@@ -1,0 +1,15 @@
+INSERT INTO Counterparty (code,name,description) VALUES ('Appl','Apple Inc', 'Apple');
+INSERT INTO Counterparty (code,name,description) VALUES ('IBM','IBM Inc', 'IBM');
+INSERT INTO Counterparty (code,name,description) VALUES ('Lorem','Lorem', 'Lorem');
+INSERT INTO Counterparty (code,name,description) VALUES ('Ipsum','Ipsum', 'Ipsum');
+INSERT INTO Counterparty (code,name,description) VALUES ('Dolor','Dolor', 'Dolor');
+INSERT INTO Counterparty (code,name,description) VALUES ('Amet','Amet', 'Amet');
+INSERT INTO Location (code,name,description) VALUES ('NY','New York', 'New York City');
+INSERT INTO Location (code,name,description) VALUES ('LN','London', 'London City');
+INSERT INTO Location (code,name,description) VALUES ('SG','Singapore', 'Singapore');
+INSERT INTO Location (code,name,description) VALUES ('DN','Denver', 'Denver');
+INSERT INTO Commodity (code,name,description) VALUES ('AL','Aluminum', 'Aluminum');
+INSERT INTO Commodity (code,name,description) VALUES ('ZN','Zinc', 'Zinc');
+INSERT INTO Commodity (code,name,description) VALUES ('Cu','Copper', 'Copper');
+INSERT INTO Commodity (code,name,description) VALUES ('AU','Gold', 'Gold');
+INSERT INTO Commodity (code,name,description) VALUES ('AG','Silver', 'Silver');
